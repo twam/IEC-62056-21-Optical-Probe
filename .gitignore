@@ -1,0 +1,7 @@
+*.kicad_pcb-bak
+*.net
+*.step
+*.xml
+*-backups/
+fp-info-cache
+
