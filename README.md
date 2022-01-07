@@ -8,10 +8,10 @@ Infrared part is based on https://wiki.volkszaehler.org/hardware/controllers/ir-
 ### JLCPCB
 
 PCBs can be ordered fully-assembled (besides the IR-LED and Photodiode) from [JLCPCB](https://jlcpcb.com/DDE). Required files are
-[IEC-62056-21-Optical-Probe_cpl_jlc.csv](IEC-62056-21-Optical-Probe_cpl_jlc.csv), [IEC-62056-21-Optical-Probe_bom_jlc.csv](IEC-62056-21-Optical-Probe_bom_jlc.csv) and
-[Gerber/IEC-62056-21-Optical-Probe.zip](IEC-62056-21-Optical-Probe.zip).
+[IEC-62056-21-Optical-Probe_cpl_jlc.csv](Gerber/IEC-62056-21-Optical-Probe_cpl_jlc.csv), [IEC-62056-21-Optical-Probe_bom_jlc.csv](Gerber/IEC-62056-21-Optical-Probe_bom_jlc.csv) and
+[IEC-62056-21-Optical-Probe.zip](IEC-62056-21-Optical-Probe.zip).
 
-### License
+## License
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
