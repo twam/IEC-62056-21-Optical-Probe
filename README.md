@@ -5,6 +5,11 @@ Optical probe for reading out power meters supporting the [IEC 62056-21](https:/
 
 Infrared part is based on https://wiki.volkszaehler.org/hardware/controllers/ir-schreib-lesekopf-ttl-ausgang.
 
+![PCB and case parts](Images/parts.jpg)
+
+![Probe mounted on a meter](Images/meter.jpg)
+
+
 ### JLCPCB
 
 PCBs can be ordered fully-assembled (besides the IR-LED and Photodiode) from [JLCPCB](https://jlcpcb.com/DDE). Required files are
