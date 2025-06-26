@@ -9,6 +9,7 @@ Infrared part is based on https://wiki.volkszaehler.org/hardware/controllers/ir-
 
 ![Probe mounted on a meter](Images/meter.jpg)
 
+For the case a ring magnet with Ø 26,75/16 mm and 5 mm height is required, e.g. [this one](https://www.supermagnete.de/eng/ring-magnets-neodymium/ring-magnet-26.75mm-16mm-5mm_R-27-16-05-N).
 
 ### JLCPCB
 
